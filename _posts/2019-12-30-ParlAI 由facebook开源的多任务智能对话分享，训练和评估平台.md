@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      ParlAI 的使用测试
-subtitle:   测试
+subtitle:   
 date:       2019-12-04
 author:     IceGomic
 header-img: img/post-bg-swift2.jpg
